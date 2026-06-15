@@ -5,7 +5,7 @@ This repository contains the solution for the Data Scientist Intern Technical Te
 
 ## 📂 Dataset Source & Annotation
 * **Source:** https://www.kaggle.com/datasets/jocelyndumlao/indonesia-presidential-candidates-dataset-2024 
-* **Annotation:** The dataset is annotated into specific sentiment categories: `[Sebutkan kategorinya, misal: Positive, Neutral, Negative]`. 
+* **Annotation:** The dataset is annotated into specific sentiment categories: `Positive,Negative`. 
 * **Preprocessing:** The raw text was preprocessed to remove noise (URLs, mentions, special characters) and tokenized to ensure optimal model performance.
 
 ## 🧠 Chosen Model
